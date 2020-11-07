@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import QuarkCamera from "./components/QuarkCamera";
 import IndexComponent from "./components/NewQuarkCamera";
 import * as serviceWorker from "./serviceWorker";
 
